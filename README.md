@@ -4,8 +4,8 @@ Primer proyecto en GitHub para Eecuela de Código, PULARES
 ##Este es un subtítulo
 ###Este también lo es
 ###Este también
-#### Titulo
-##### Título
+####Titulo
+#####Título
 
 *Hola*
 **Hola de nuevo**
